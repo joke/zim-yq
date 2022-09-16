@@ -1,0 +1,3 @@
+= zim-yq
+
+https://github.com/zimfw/zimfw[zim module] for https://github.com/mikefarah/yq[yq].
