@@ -6,6 +6,6 @@
   local compfile=$1/functions/_yq
   if [[ ! -e $compfile || $compfile -ot $command ]]; then
     $command shell-completion zsh >| $compfile
-    zimfw check-dumpfile
+    print -u2 -PR "* Detected a new version 'yq'. Regenerated completions."
   fi
 } ${0:h}
