@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/joke/zim-yq/compare/v1.1.0...v1.1.1) (2023-03-12)
+
+
+### Bug Fixes
+
+* new version detection message ([baec8d8](https://github.com/joke/zim-yq/commit/baec8d8a30662f9cb335180e26b74a84ddb9e2f9))
+
 ## [1.1.0](https://github.com/joke/zim-yq/compare/v1.0.1...v1.1.0) (2022-09-17)
 
 
